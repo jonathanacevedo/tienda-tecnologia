@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dominio.unitaria.VendedorTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2019-06-09T17:52:28" hostname="pc-PC" time="0.178">
+  <properties/>
+  <testcase name="productoTieneCodigoConTresVocalesTest" classname="dominio.unitaria.VendedorTest" time="0.165"/>
+  <testcase name="validarDiaHabilDeFechaDomingo" classname="dominio.unitaria.VendedorTest" time="0.001"/>
+  <testcase name="fechaFinGarantiaQueTerminaDomingo" classname="dominio.unitaria.VendedorTest" time="0.001"/>
+  <testcase name="productoTieneCodigoConTresVocalesMinusculasTest" classname="dominio.unitaria.VendedorTest" time="0.001"/>
+  <testcase name="productoNoTieneGarantiaTest" classname="dominio.unitaria.VendedorTest" time="0.004"/>
+  <testcase name="precioDeGarantiaConPrecioDe420000" classname="dominio.unitaria.VendedorTest" time="0.0"/>
+  <testcase name="productoYaTieneGarantiaTest" classname="dominio.unitaria.VendedorTest" time="0.001"/>
+  <testcase name="precioDeGarantiaConPrecioDe650000" classname="dominio.unitaria.VendedorTest" time="0.0"/>
+  <testcase name="fechaFinGarantiaPara16Agosto2018" classname="dominio.unitaria.VendedorTest" time="0.001"/>
+  <testcase name="validarDiaHabilDeFechaHabil" classname="dominio.unitaria.VendedorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

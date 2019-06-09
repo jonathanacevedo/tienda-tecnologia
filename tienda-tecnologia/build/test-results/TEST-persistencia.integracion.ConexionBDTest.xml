@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="persistencia.integracion.ConexionBDTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-06-08T17:37:35" hostname="pc-PC" time="0.0">
+  <properties/>
+  <testcase name="validarConexion" classname="persistencia.integracion.ConexionBDTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
